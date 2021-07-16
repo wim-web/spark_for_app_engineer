@@ -1,0 +1,7 @@
+**/checkpoint/
+log/sensor_data/sensor_data.log
+**/metastore_db/
+**/parquet/
+**/derby.log
+**/partition/
+**/json/
